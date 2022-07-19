@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mumkyy
-- 👀 I’m interested in programming and computer science in general
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on anything
+- 👀 I’m interested AI and ML in general
+- 🌱 I’m currently learning how to be good at stuff
+- 💞️ I’m looking to collaborate on anything...please
 - 📫 How to reach me : email me monkymansyt@gmail.com
 
 <!---
