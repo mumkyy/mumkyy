@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Assaf Izhar
-- 👀 I’m interested efficient AI and the theory behind ML in general
+- 👀 I’m interested in actionable AI and the theory behind ML in general
 - 🌱 I’m currently studying Computer Science at the New Jersey Institute of Technology
 - 💞️ I’m looking to collaborate on anything...please
 - 📫 How to reach me : email me assaf.izhar@gmail.com
